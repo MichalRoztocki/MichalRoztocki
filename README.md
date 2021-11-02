@@ -15,7 +15,7 @@ music (listening and performing), and exchange fitness tips (bodybuilding, power
 
 What I'm currently working on:
 
-Building a deep learning framework from scratch, completing my first Kaggle competition, learning about cloud computing... 💭
+Implementing semantic segmentation for colonoscopies, completing my first Kaggle competition, learning about software engineering best practices... 💭
 
 Connect with me on Linkedin or Kaggle!
 
